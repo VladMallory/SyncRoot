@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"syncObsidian/internal/app"
+	"syncroot/internal/app"
 )
 
 func main() {
